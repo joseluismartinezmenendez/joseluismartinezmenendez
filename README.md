@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hola 👋
 
-Here are some ideas to get you started:
+Aquí hay algunas ideas para comenzar:
 
 - 🌱 Actualmente estoy aprendiendo... Programación
 - 👯 Busco colaborar en... Proyectos
